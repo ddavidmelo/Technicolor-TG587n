@@ -58,3 +58,5 @@ http://web.archive.org/web/20160326063534/http://npr.me.uk/nbridge.html
 http://web.archive.org/web/20160718141727/http://npr.me.uk/forwardports.html
 
 https://forum.meo.pt/internet-fixa-e-movel-11/technicolor-tg582n-v10-2-4-3-telnet-43901#post94882
+
+https://support.aa.net.uk/Category:Router_TG582N
